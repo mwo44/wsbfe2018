@@ -22,8 +22,6 @@ import { CharactersComponent } from './components/characters/characters.componen
 
 // Material imports
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
-import { MatButtonModule,
-         MatCheckboxModule } from '@angular/material';
 
 const config = Environment;
 
