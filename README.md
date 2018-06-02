@@ -6,7 +6,7 @@ Lista wpisów postaci z Gwiezdnych Wojen przechowywana w bazie danych Firebase.
 
 ## CRUD
 
-Formularze do towrzenia, edytowania i usuwania wpisów w bazie danych.
+Formularze do tworzenia, edytowania i usuwania wpisów w bazie danych.
 
 ## Baza filmów
 
